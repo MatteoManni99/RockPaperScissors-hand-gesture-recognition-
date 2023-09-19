@@ -4,4 +4,5 @@ Specifically, I developed an application that takes input from the webcam in rea
 The documentation:
 1) DataTransformation Documentation.html
 2) Classification Documentation.html
+
 RockPaperScissors-Presentation.pdf is a file containing the slides used to present the project.
