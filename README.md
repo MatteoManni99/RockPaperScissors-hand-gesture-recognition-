@@ -4,7 +4,7 @@ Specifically, the application takes input from the webcam in real-time and attem
 
 The documentation:
 1) DataTransformation Documentation.html
-2) Classification Documentation.html
+2) Classification Documentation.html__
 RockPaperScissors-Presentation.pdf is a file containing the slides used to present the project.__
 application.py is the application code, to work it needs the models extracted in pkl.__
 In the application_video folder there are 2 demonstrative videos.
