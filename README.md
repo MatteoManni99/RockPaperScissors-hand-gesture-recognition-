@@ -7,5 +7,7 @@ The documentation:
 2) Classification Documentation.html
 
 RockPaperScissors-Presentation.pdf is a file containing the slides used to present the project.
+
 application.py is the application code, to work it needs the models extracted in pkl.
+
 In the application_video folder there are 2 demonstrative videos.
