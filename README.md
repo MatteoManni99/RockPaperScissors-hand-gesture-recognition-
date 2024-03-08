@@ -1,6 +1,6 @@
 ![Untitled_Project_V3 (1)](https://github.com/MatteoManni99/uni_DataMiningAndMachineLearning_HandGestureRecognition/assets/81640598/083db461-6787-44b9-afaa-d7e578aec381)
 
-In this project, I created several machine learning models capable of accurately recognizing gestures for rock, paper, and scissors in images. I developed a simple Python application that exploits several AI model. The application takes input from the webcam in real-time and attempts to classify the gesture that the user is performing.
+In this project, I created several machine learning models capable of accurately recognizing gestures for rock, paper, and scissors in images. The application takes input from the webcam in real-time and attempts to classify the gesture that the user is performing.
 
 The documentation includes:
   - "DataTransformation Documentation.html" exposes all the preprocessing steps, including some of data augmentation.
