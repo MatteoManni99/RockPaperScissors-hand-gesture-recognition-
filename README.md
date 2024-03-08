@@ -1,5 +1,3 @@
-![image](https://github.com/MatteoManni99/uni_DataMiningAndMachineLearning_HandGestureRecognition/assets/81640598/d64a1130-a6ca-49fc-a2fc-e6842e4a6432)# Hand Gesture Recognition
-
 In this project, I created several machine learning models capable of accurately recognizing gestures for rock, paper, and scissors in images. I developed a simple Python application that exploits several AI model. The application takes input from the webcam in real-time and attempts to classify the gesture that the user is performing.
 
 The documentation includes:
